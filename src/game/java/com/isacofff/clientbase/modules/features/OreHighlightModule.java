@@ -1,3 +1,9 @@
+package com.isacofff.clientbase.modules.features;
+
+import com.isacofff.clientbase.modules.Module;
+import com.isacofff.clientbase.modules.ModuleCategory;
+import net.minecraft.client.Minecraft;
+
 public class OreHighlightModule extends Module {
 
     public OreHighlightModule() {
